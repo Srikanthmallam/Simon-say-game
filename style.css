@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+}
+p{
+    font-size: 18px;
+}
+.outerbox{
+    height: 370px;
+    width: 370px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+.btn{
+    height:140px;
+    width: 140px;
+    border: 10px solid black;
+    border-radius: 30px;
+    margin: 10px;
+}
+.btn1 {
+    background-color : rgb(244, 78, 161);
+}
+.btn2 {
+    background-color:  rgb(116, 103, 178);
+}
+.btn3 {
+    background-color: rgb(171, 121, 250);
+}
+.btn4 {
+    background-color: 	rgb(241, 159, 189);
+}
+
+.flash {
+    background-color: white;
+}
