@@ -1,6 +1,16 @@
 body {
     text-align: center;
 }
+#rules {
+    margin: auto;
+    width: 400px;
+    padding: 20px;
+    background-color: #f3f3f3;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: left;
+}
+
 p{
     font-size: 18px;
 }
@@ -35,13 +45,4 @@ p{
 
 .flash {
     background-color: white;
-}
-#rules {
-    margin: auto;
-    width: 400px;
-    padding: 20px;
-    background-color: #f3f3f3;
-    border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    text-align: left;
 }
