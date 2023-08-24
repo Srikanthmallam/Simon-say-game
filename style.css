@@ -1,7 +1,7 @@
 body {
     text-align: center;
 }
-#rules {
+.rules {
     margin: auto;
     width: 400px;
     padding: 20px;
