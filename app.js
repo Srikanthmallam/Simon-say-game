@@ -20,7 +20,7 @@ documnet.addEventListener("touchstart",function(){
         levelUp();
     }
 });
-document.addEventListener("click",function(){
+document.addEventListener("keypress",function(){
     if(started == false){
         console.log("game started");
         started = true;
