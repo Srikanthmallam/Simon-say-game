@@ -4,7 +4,7 @@ Classic memory game. Repeat color & sound sequences. Test your memory and have f
 
 ## How to Play
 
-1. Visit the game [here](https://your-game-url.com).
+1. Visit the game [here](https://srikanthmallam.github.io/Simon-say-game/).
 2. Press "Start" to begin.
 3. Repeat the sequence by clicking colors.
 4. Game gets harder as you play.
