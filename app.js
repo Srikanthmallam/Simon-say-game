@@ -11,9 +11,8 @@ let highscore = document.querySelector("#highscore");
 
 let levelindi = document.querySelector("h2");
 
-const startgame = document.queryseslector(".start");
 
-startgame.addEventListener("touchstart",function(){
+documnet.addEventListener("touchstart",function(){
     if(started == false){
         console.log("game started");
         started = true;
@@ -21,7 +20,7 @@ startgame.addEventListener("touchstart",function(){
         levelUp();
     }
 });
-startgame.addEventListener("click",function(){
+document.addEventListener("click",function(){
     if(started == false){
         console.log("game started");
         started = true;
