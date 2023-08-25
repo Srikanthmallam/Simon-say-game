@@ -14,14 +14,14 @@ Classic memory game. Repeat color & sound sequences. Test your memory and have f
 
 - Classic Simon Says gameplay.
 - Random sequences.
-- User-friendly interface with sounds.
+- User-friendly interface.
 - Increasing difficulty.
 - Score tracking.
 
 ## Tech
 
 - HTML, CSS, JavaScript.
-- Audio for sound effects.
+
 
 ## Contribute
 
