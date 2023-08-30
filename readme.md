@@ -30,11 +30,3 @@ Classic memory game. Repeat color & sound sequences. Test your memory and have f
 3. Make changes, test.
 4. Commit and push.
 5. Create pull request.
-
-## License
-
-MIT License. See [LICENSE](LICENSE).
-
-## Acknowledgements
-
-Sounds from [SoundBible](https://www.soundbible.com/).
